@@ -44,7 +44,7 @@ font-size: 30px;
 }
 
 .content-countainer {
-    background-color: white;
+background-color: white;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -52,10 +52,10 @@ align-items: center;
 
 
 .b-content {
-height: 55vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+height: 40vh;
+display: flex;
+align-items: center;
+justify-content: center;
 }
 
 
