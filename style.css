@@ -48,12 +48,12 @@ background-color: white;
 display: flex;
 justify-content: center;
 align-items: center;
-height: 20vh;
 }
 
 
 .b-content {
 height: 40vh;
+width: 20vh;
 display: flex;
 align-items: center;
 justify-content: center;
