@@ -48,12 +48,11 @@ font-size: 30px;
 display: flex;
 justify-content: center;
 align-items: center;
-height: 10vh;
 }
 
+
 .b-content {
-    height: 10;
-    width: 20;
+height: 55vh;
     display: flex;
     justify-content: center;
     align-items: center;
