@@ -48,14 +48,13 @@ font-size: 30px;
 display: flex;
 justify-content: center;
 align-items: center;
-    height: 70vh;
+height: 65vh;
 }
 
-.img-countent {
-width: 10vh;
-height: 10vh;
+.b-content {
+width: 60vh;
+height: 40vh;
 }
-
 
 
 .footer-countainer {
